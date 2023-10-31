@@ -8,9 +8,9 @@ import Image from "next/image";
 
 export default function ImageSlider() {
    const images = [
-      "/bg.webp",
-      "/slider1.webp",
       "/slider2.webp",
+      "/slider1.webp",
+      "/bg.webp",
       "/slider3.webp",
       "/slider4.webp",
       "/slider5.webp",

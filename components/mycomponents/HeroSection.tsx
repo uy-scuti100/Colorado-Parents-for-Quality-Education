@@ -24,7 +24,7 @@ export default function HeroSection() {
          onMouseMove={handleMouseMove}>
          <div className="md:basis-1/2" />
          <div className="z-40 max-w-[1500px] mx-auto md:px-28 md:basis-1/2 text-center md:text-left px-5 ">
-            <h1 className="text-5xl font-bold md:text-6xl text-[#ffffff]  font-[MuseoModerno]">
+            <h1 className="text-5xl pt-10 md:pt-0 font-bold md:text-6xl text-[#ffffff]  font-[MuseoModerno]">
                {" "}
                COLORADO PARENTS FOR QUALITY{" "}
                <span className="text-[#EB464A]">EDUCATION</span>{" "}
